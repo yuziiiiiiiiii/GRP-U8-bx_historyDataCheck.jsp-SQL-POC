@@ -1,5 +1,6 @@
 # 9.22用友GRP-U8 SQL注入漏洞
 **郑重声明：文中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途以及盈利等目的，否则后果自行承担 。**
+
 用友GRP-U8 bx_historyDataCheck.jsp SQL注入漏洞检测脚本
 ![微步威胁情报](https://github.com/yuziiiiiiiiii/GRP-U8-bx_historyDataCheck.jsp-SQL-POC/assets/138445912/ac0e084f-2a57-4392-a6ce-d77313c0519a)
 
